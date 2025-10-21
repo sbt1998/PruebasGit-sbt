@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 aportación buena
+=======
+aportacion buena buena suerte
+>>>>>>> db28e1a (aportacionbuena)
